@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Project 1",
+        "description": "A web application that helps manage tasks.",
+        "link": "https://github.com/yourprofile/project1",
+        "image": "https://via.placeholder.com/300x200"
+    },
+    {
+        "title": "Project 2",
+        "description": "An ecommerce website with payment integration.",
+        "link": "https://github.com/yourprofile/project2",
+        "image": "https://via.placeholder.com/300x200"
+    }
+]
